@@ -1,3 +1,33 @@
+.fongris{
+  background-color:#D6CCBF;
+}
+.centrar{
+  text-align: center;
+}
+p{
+	color: #160091;
+	font-family: arial black;
+}
+
+h1{
+  color: #160091;
+  font-family: arial black;
+}
+h3 {
+	color: black;
+	 text-align: center;
+	 font-family: arial ;
+	 font-size: 25px;
+}
+h4 {
+	 color: white;
+	 text-align: justify;
+	 font-family: arial;
+	 font-size: 17px;
+
+}
+
+
 .margenabajo {
 	margin-bottom: 5px;
 }
@@ -60,7 +90,7 @@ td {
     background-color: #dc6900;
 }
 .jumbotron {
-	color: #D15700;
+	color: #160091;
 	font-family: arial;
 	background-color: transparent;
 	text-align: left;
@@ -76,7 +106,8 @@ td {
 	border-radius: 30%;
 }
 .jumbotron p{
-	color: white;
+	color: #160091;
+	font-size: 30px;
 }
 .jtit{
 
@@ -92,24 +123,7 @@ td {
 	color:#dc6900 
 }
 
-h2 {
-	 color:#dc6900 ;
-	
-}
 
-h3 {
-	color: white;
-	 text-align: center;
-	 font-family: arial;
-	 font-size: 30px;
-}
-h4 {
-	 color: white;
-	 text-align: justify;
-	 font-family: arial;
-	 font-size: 17px;
-
-}
 .centrar 
 {
 	text-align: center;
